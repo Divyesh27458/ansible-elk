@@ -1,5 +1,5 @@
 [elk]
-host-01
+13.127.194.55
 
 [elk_client]
 host-02
